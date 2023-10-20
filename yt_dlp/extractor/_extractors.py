@@ -2209,7 +2209,7 @@ from .umg import UMGDeIE
 from .unistra import UnistraIE
 from .unity import UnityIE
 from .unscripted import UnscriptedNewsVideoIE
-from .unsupported import KnownDRMIE, KnownPiracyIE
+from .unsupported import KnownDRMIE
 from .uol import UOLIE
 from .uplynk import (
     UplynkIE,
